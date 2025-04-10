@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial, sans serif;
+}
+
+table th{
+    border: solid black;
+    border-radius: 5px;
+    border-collapse: collapse;
+    width: 500px;
+    height: 100px;
+    font-size: 40px;
+    text-align: center;
+   
+}
+table{
+    margin-bottom: 700%;
+    margin-top: 700%;
+}
+table td{
+    font-size: 30px;
+    border: solid black;
+    text-align: center;
+    padding: 8px;
+}
+tr:hover{
+    background-color: blue;
+    color: white;
+
+}
+body{
+    background-color: rgb(11, 28, 104);
+    width: 100px;
+   height: 100px;
+   background-color: lightcyan;
+} 
+
+.center{
+    margin-left: 700%;
+    margin-right: 700%;
+}
